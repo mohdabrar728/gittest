@@ -1,0 +1,18 @@
+Softtek - Hyderabad, India Feb 2012 – Nov 2014
+Java Developer
+
+Softtek team came from three different nations and had already scripted successful careers. Their vision to build an institution that is among the most admired companies globally is shared with Softtek and is reflected in the way we do business. Softtek is a leading provider of Portal/Web Application Development and Data Management services
+Responsibilities:
+Involved in prototyping, proof of concept, design, Interface Implementation, testing and maintenance.
+Design and Development of the Object-Oriented applications using OOA and OOD techniques in all Business Areas using Rational Rose.
+Gained substantial knowledge about the concepts, design advantages, traps and pitfalls of successful object-relational mapping.
+Worked on bug fixing and Production Support.
+Developed class diagrams, sequence diagrams and object diagrams using UML methodology.
+Wrote Client-side validation scripts using JavaScript.
+Designed and developed the subsystem using Java Servlets, JSP, J2EE Entity beans and Session Beans.
+Designed and developed web pages using HTML and JSP.
+Stored data in Oracle database and accessed using Oracle JDBC drivers.
+Used Eclipse as IDE to create, test and deploy EJB components.
+Design and developed Oracle stored procedures, functions, triggers and PL/SQL modules.
+Imported Client data into the database from XML file by using the XML Parser.
+Environment:JDK, J2EE, Servlets, JSP, EJB, JDBC, SQL, HTML, JavaScript, Eclipse, XML and CVS.
